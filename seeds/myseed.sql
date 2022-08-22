@@ -1,1 +1,1 @@
-INSERT INTO students (name, email, phone, github, start_date, end_date, cohort_id) VALUES ('Sachieko Kuranashi', 'afakeemail@gmali.com', '403-669-6969', 'sachieko', '2022-07-25T08:00:00.000Z', '2022-10-14T07:00:00.000Z', 2);
+INSERT INTO students (name,github, start_date, end_date, cohort_id) VALUES ('Sachieko Kuranashi', 'sachieko', '2022-07-25T08:00:00.000Z', '2022-10-14T07:00:00.000Z', 2);
