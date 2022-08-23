@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T20:21:34.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.64" etag="ePxYWZYddzRu_hzRlb2t" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T20:22:57.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.64" etag="XVLngT7cbBGQXAb1HTc9" version="20.2.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1381" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -644,6 +644,12 @@
         </mxCell>
         <mxCell id="H8_m_KAWTPCKVmlDr_jR-164" value="bootcampX Entity Relationship Diagram" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;fontStyle=3;labelBorderColor=none;labelBackgroundColor=none;gradientColor=#C7C7C7;" parent="1" vertex="1">
           <mxGeometry x="624" y="17" width="415" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCKhK9RILUVU-waLTgLC-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4" y="11" width="238" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="aCKhK9RILUVU-waLTgLC-2" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1034" y="708" width="209" height="385" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
