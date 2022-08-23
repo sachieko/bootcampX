@@ -16,6 +16,6 @@ CREATE TABLE assistance_requests (
   created_at TIMESTAMP DEFAULT NOW(),
   started_at TIMESTAMP,
   completed_at TIMESTAMP,
-  student_feedback VARCHAR(255),
-  teacher_feedback VARCHAR(255)
+  student_feedback TEXT,
+  teacher_feedback TEXT
 )
